@@ -1,3 +1,1 @@
-First edit
-content changed
-content again changed
+echo 3 > file.txt
